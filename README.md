@@ -10,6 +10,7 @@ To analyze Beijing’s air quality data to identify pollution trends, understand
 -Created a card on the hottest date
 
 -Plot a stacked bar chart on avg of non methane,avg of nitrous oxide ,avg of nitrogen dioxide
+
 -Created a card on most humid day
 
 -A line chart on average of CO by month 
