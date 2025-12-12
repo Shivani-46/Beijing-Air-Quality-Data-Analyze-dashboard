@@ -11,6 +11,7 @@ To analyze Beijing’s air quality data to identify pollution trends, understand
 
 -Plot a stacked bar chart on avg of non methane,avg of nitrous oxide ,avg of nitrogen dioxide
 -Created a card on most humid day
+
 -A line chart on average of CO by month 
 
 -Dashboard Interaction <a href="https://github.com/Shivani-46/Beijing-Air-Quality-Data-Analyze-dashboard/blob/main/air%20quality%20dashboard.png">View Dashboard</a>
